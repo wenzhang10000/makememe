@@ -1,0 +1,7 @@
+{
+  "name": "WeChat Sticker Studio",
+  "description": "Create personalized WeChat stickers with custom text, background colors, and your own avatar. Inspired by corporate 'New Sales Champion' style stickers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
